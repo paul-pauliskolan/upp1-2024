@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(213, 238, 115);
+}
+
+h1 {
+  color: blue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* p-element selects color and font-size */
+p {
+  color: blueviolet;
+  font-size: 2rem;
+}
+
+/*
+option + shift + 8 -> {
+*/
