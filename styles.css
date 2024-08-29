@@ -2,17 +2,24 @@ body {
   background-color: rgb(213, 238, 115);
 }
 
-h1 {
-  color: blue;
+h1,
+h2 {
+  color: rgb(23, 23, 224);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.7rem;
 }
 
-/* p-element selects color and font-size */
+h2 {
+  font-size: 1.3rem;
+}
+
 p {
-  color: blueviolet;
-  font-size: 2rem;
+  color: rgb(0, 0, 139);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.2rem;
 }
 
-/*
-option + shift + 8 -> {
-*/
+img {
+  width: 100%;
+  max-width: 500px;
+}
